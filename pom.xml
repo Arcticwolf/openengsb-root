@@ -1360,6 +1360,7 @@
                 <config>XML_STYLE</config>
                 <script>DOUBLESLASH_STYLE</script>
                 <rule>SCRIPT_STYLE</rule>
+                <cs>DOUBLESLASH_STYLE</cs>
               </mapping>
             </configuration>
           </plugin>
